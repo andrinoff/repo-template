@@ -1,4 +1,4 @@
-<!-- PLEASE NOTE, IN EVERY LINK AFTER /tbilisihc/ you have to put Your repo name -->
+<!-- PLEASE NOTE, IN EVERY LINK AFTER /andrinoff/ you have to put Your repo-template name -->
 <a id="readme-top"></a>
 
 <!-- REFERENCE: https://github.com/othneildrew/Best-README-Template -->
@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/tbilisihc/repo">
+  <a href="https://github.com/andrinoff/repo-template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -32,14 +32,14 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/tbilisihc/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/andrinoff/repo-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/tbilisihc/repo">View Demo</a>
+    <a href="https://github.com/andrinoff/repo-template">View Demo</a>
     &middot;
-    <a href="https://github.com/tbilisihc/repo/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/andrinoff/repo-template/issues/new?labels=bug&template=bug-report---.md">repo-templatert Bug</a>
     &middot;
-    <a href="https://github.com/tbilisihc/repo/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/andrinoff/repo-template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -85,7 +85,7 @@ Here's why:
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo-template and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 Use the `BLANK_README.md` to get started.
 
@@ -129,9 +129,9 @@ This is an example of how to list things you need to use the software and how to
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+2. Clone the repo-template
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/github_username/repo-template_name.git
    ```
 3. Install NPM packages
    ```sh
@@ -143,7 +143,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 5. Change git remote url to avoid accidental pushes to base project
    ```sh
-   git remote set-url origin github_username/repo_name
+   git remote set-url origin github_username/repo-template_name
    git remote -v # confirm the changes
    ```
 
@@ -173,7 +173,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/tbilisihc/repo/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/andrinoff/repo-template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,7 +184,7 @@ See the [open issues](https://github.com/tbilisihc/repo/issues) for a full list 
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have a suggestion that would make this better, please fork the repo-template and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -195,8 +195,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/tbilisihc/repo/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tbilisihc/repo" alt="contrib.rocks image" />
+<a href="https://github.com/andrinoff/repo-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo-template=andrinoff/repo-template" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -217,7 +217,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo-template_name](https://github.com/your_username/repo-template_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,8 +225,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
@@ -243,16 +241,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/tbilisihc/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/tbilisihc/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/tbilisihc/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/tbilisihc/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/tbilisihc/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/tbilisihc/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/tbilisihc/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/tbilisihc/repo/issues
-[license-shield]: https://img.shields.io/github/license/tbilisihc/repo.svg?style=for-the-badge
-[license-url]: https://github.com/tbilisihc/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/andrinoff/repo-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/andrinoff/repo-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/andrinoff/repo-template.svg?style=for-the-badge
+[forks-url]: https://github.com/andrinoff/repo-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/andrinoff/repo-template.svg?style=for-the-badge
+[stars-url]: https://github.com/andrinoff/repo-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/andrinoff/repo-template.svg?style=for-the-badge
+[issues-url]: https://github.com/andrinoff/repo-template/issues
+[license-shield]: https://img.shields.io/github/license/andrinoff/repo-template.svg?style=for-the-badge
+[license-url]: https://github.com/andrinoff/repo-template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
